@@ -129,8 +129,42 @@ a:hover{
 .banner{
     width: 100%;
     height: 780px;
-    background: url(imagens/Home\ \(2\).png);
+    background: url(imagens/HOMECSAIBA.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    
 }
+
+.banner img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 300px;
+    padding-left: 390px;
+
+}
+
+.ptit{
+    color: white;
+}
+
+
+.pai5{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    margin-top: -150px;
+    
+}
+
+
+.fi1{
+    margin-left: 200px;
+}
+
+
+
+
+
