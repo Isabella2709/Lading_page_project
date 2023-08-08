@@ -43,6 +43,7 @@ ul{
     margin-left: 220px;
     margin-top: 50px;
     
+    
 }
 
 input[type="checkbox"]:checked ~ nav{
@@ -501,9 +502,10 @@ a:hover{
     margin-left: 580px;
 }
 
-.portf2{
+.p02{
     font-family: 'Roboto', sans-serif;
     font-size: 40px;
+    color: black;
 }
 
 .positionconf{
@@ -721,7 +723,72 @@ a:hover{
     opacity: 1;
   }
 
+  .banner5{
+    margin-top: 50px;
+    width: 100%;
+    height: 780px;
+    background-image: url(imagens/FUNDOPT5.png);
 
+  }
+
+  .pdserv{
+    margin-top: -750px;
+    margin-left: 580px;
+  }
+
+  .tservc{
+    font-family: 'Roboto', sans-serif; 
+    color: rgb(0, 153, 255);
+    font-size: 20px;
+  }
+
+  .positcm5{
+    margin-left: 440px;
+  }
+
+  .portf2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    color: white;
+  }
+
+  .p1s5t1{
+    color: gray;
+    font-size: 16px;
+  }
+
+  .posis5d1{
+    margin-top: 320px;
+    margin-left: 140px;
+  }
+
+  .posis5d2{
+    margin-top: 320px;
+    margin-left: 540px;
+    margin-top: -70px;
+  }
+
+  .p2s5t1{
+    color: gray;
+    font-size: 16px;
+  }
+
+.p3s5t3{
+    color: gray;
+    font-size: 16px;
+}
+
+.posis5d4{
+    margin-left: 940px;
+    margin-top: -70px;
+}
+
+.bs5-6anw{
+    margin-top: 120px;
+    background-image: url(imagens/verd1.png);
+    width: 100%;
+    height: 380px;
+}
 
   
 
