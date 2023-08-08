@@ -790,14 +790,225 @@ a:hover{
     height: 380px;
 }
 
-  
+.bs6finale{
+    background-color: black;
+    width: 100%;
+    height: 1000px;
+}
 
 
+.contatosesao6{
+    font-family: 'Roboto', sans-serif; 
+    color: rgb(0, 153, 255);
+    font-size: 20px;
+}
 
+.cssta{
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    color: white;
+}
 
+.posiss1{
+    margin-top: -960px;
+    margin-left: 580px;
+}
 
+.posiss2{
+    margin-left: 520px;
+}
 
+.parte5texto3{
+    color: gray;
+    font-size: 20px;
+}
 
+.posicaoexto35{
+    margin-top: 3px;
+    margin-left: 350px;
+}
+
+.c1f1{
+    width: 60%;
+    height: 40px;
+    color: gray;
+    border: none;
+    background-color: black;
+    
+}
+
+.form1c1{
+    margin-top: 150px;
+    margin-left: 320px;
+}
+
+.hr1{
+    margin-top: 40px;
+    width: 60%;
+    margin-left: 250px;
+    color: gray;
+
+}
+
+.c2f1{
+    width: 60%;
+    height: 40px;
+    color: gray;
+    border: solid black 2px;
+    background-color: black;
+    border-radius: 2px gray;
+}
+
+.form1c2{
+    margin-top: 40px;
+    margin-left: 320px;
+}
+
+.c3f1{
+    width: 60%;
+    height: 40px;
+    color: gray;
+    border: solid black 2px;
+    background-color: black;
+    border-radius: 2px gray;
+}
+
+.form1c3{
+    margin-top: 40px;
+    margin-left: 320px;
+}
+
+.c4f1{
+    width: 60%;
+    height: 40px;
+    color: gray;
+    border: solid black 2px;
+    background-color: black;
+    border-radius: 2px gray;   
+}
+
+.form14{
+    margin-top: 40px;
+    margin-left: 320px;
+}
+
+.hr2{
+    background-color: rgb(0, 153, 255);
+    border-color: rgb(0, 153, 255);
+    width: 60%;
+    margin-top: 150px;
+    margin-left: 250px;
+}
+
+.btpg6{
+    margin-top: 40px;
+    width: 60%;
+    height: 60px;
+    background-color: rgb(0, 153, 255);
+    border: rgb(0, 153, 255) 2px;
+    border-radius: 6px;
+    margin-left: 250px;
+    color: white;
+}
+
+.bsg6finale2{
+    margin-top: 0px;
+    background-color: black;
+    width: 100%;
+    height: 600px;
+}
+
+.ims6loca{
+    width: 15%;
+}
+
+.ims6email{
+    width: 20%;
+}
+
+.imgs6telfo{
+    width: 60%;
+}
+
+.positionimgs6loca{
+    margin-top: -550px;
+    margin-left: 50px;
+}
+
+.positionimgs6email{
+    margin-top: -160px;
+    margin-left: 550px;
+}
+
+.positions6telefo{
+    margin-top: -160px;
+    margin-left: 980px;
+}
+
+.loc{
+    font-family: 'Roboto', sans-serif; 
+    color: rgb(0, 153, 255);
+    font-size: 15px;
+}
+
+.poema{
+    font-family: 'Roboto', sans-serif; 
+    color: rgb(0, 153, 255);
+    font-size: 15px;
+}
+
+.pchw{
+    font-family: 'Roboto', sans-serif; 
+    color: rgb(0, 153, 255);
+    font-size: 15px;
+}
+
+.pchamad{
+    margin-top: -20px;
+    margin-left: 1010px;
+}
+
+.pemail{
+    margin-top: -20px;
+    margin-left: 580px;
+}
+
+.ploc{
+    margin-left: 93px;
+}
+
+.tpa{
+    color: gray;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.pospa{
+    margin-top: 30px;
+    margin-left: 120px;
+}
+
+.tpe{
+    color: gray;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif; 
+}
+
+.poaem{
+    margin-top: -30px;
+    margin-left: 569px;
+}
+
+.tpt{
+    color: gray;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif; 
+}
+
+.potel{
+    margin-top: -20px;
+    margin-left: 1039px;
+}
 
 
 
