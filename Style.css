@@ -39,7 +39,7 @@ ul{
     height: 350px;
     background-color: black;
     left: -500px;
-    position: absolute;
+    position: relative;
     margin-left: 220px;
     margin-top: 50px;
     
